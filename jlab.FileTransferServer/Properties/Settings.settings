@@ -1,0 +1,165 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="jlab.FileTransferServer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AllTrace" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Todas</Value>
+    </Setting>
+    <Setting Name="Directory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Directorios</Value>
+    </Setting>
+    <Setting Name="Files" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ficheros</Value>
+    </Setting>
+    <Setting Name="Thumbnails" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Miniaturas</Value>
+    </Setting>
+    <Setting Name="Index" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Indice</Value>
+    </Setting>
+    <Setting Name="Running" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Corriendo</Value>
+    </Setting>
+    <Setting Name="Stoped" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Detenido</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Configuración</Value>
+    </Setting>
+    <Setting Name="BufferSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tamaño de Buffer</Value>
+    </Setting>
+    <Setting Name="StartServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Iniciar Servidor</Value>
+    </Setting>
+    <Setting Name="StopServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Detener Servidor</Value>
+    </Setting>
+    <Setting Name="LoadDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cargar Directorio</Value>
+    </Setting>
+    <Setting Name="ThumbIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Indice de Miniaturas</Value>
+    </Setting>
+    <Setting Name="CountTraceList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cant. Trazas a Listar</Value>
+    </Setting>
+    <Setting Name="Concurrence" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Concurrencia (Cant. Máx. a Servir en Paralelo)</Value>
+    </Setting>
+    <Setting Name="Create" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Crear</Value>
+    </Setting>
+    <Setting Name="Load" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cargar</Value>
+    </Setting>
+    <Setting Name="PresImage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Imagen de Presentación</Value>
+    </Setting>
+    <Setting Name="Close" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Salir</Value>
+    </Setting>
+    <Setting Name="Saving" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Guardar</Value>
+    </Setting>
+    <Setting Name="Cancel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cancelar</Value>
+    </Setting>
+    <Setting Name="Options" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Opciones</Value>
+    </Setting>
+    <Setting Name="Question" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pregunta</Value>
+    </Setting>
+    <Setting Name="UpdateThumbIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">¿El directorio elegido ya posee índice de miniaturas, desea actualizar dicho índice?</Value>
+    </Setting>
+    <Setting Name="CreateThumbIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">¿El directorio elegido no posee índice de miniaturas, desea crear su índice?</Value>
+    </Setting>
+    <Setting Name="DirectoryToIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Seleccione la Carpeta o Unidad a Indizar.</Value>
+    </Setting>
+    <Setting Name="DirectoryToShare" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Seleccione la Carpeta o Unidad que será compartida.</Value>
+    </Setting>
+    <Setting Name="TheDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">El Directorio</Value>
+    </Setting>
+    <Setting Name="NotExist" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no existe</Value>
+    </Setting>
+    <Setting Name="Stop" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Detener</Value>
+    </Setting>
+    <Setting Name="Total" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Total</Value>
+    </Setting>
+    <Setting Name="Continue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Continuar</Value>
+    </Setting>
+    <Setting Name="StopIndexCreation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">¿Desea detener la creación del índice?</Value>
+    </Setting>
+    <Setting Name="NotLoadPresImage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No se pudo cargar la imagen de presentación, el fichero seleccionado no es una imagen.</Value>
+    </Setting>
+    <Setting Name="Error" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Error</Value>
+    </Setting>
+    <Setting Name="RenamedThumb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Miniatura renombrada para Fichero renombrado de</Value>
+    </Setting>
+    <Setting Name="UpdateThumb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Miniatura actualizada para Fichero renombrado de</Value>
+    </Setting>
+    <Setting Name="To" Type="System.String" Scope="User">
+      <Value Profile="(Default)">a</Value>
+    </Setting>
+    <Setting Name="CreateThumb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Miniatura creada para el Fichero</Value>
+    </Setting>
+    <Setting Name="DeleteThumb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Miniatura eliminada para el antiguo Fichero</Value>
+    </Setting>
+    <Setting Name="ShareNotExist" Type="System.String" Scope="User">
+      <Value Profile="(Default)">que desea compartir no existe.</Value>
+    </Setting>
+    <Setting Name="NotCanStartServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Imposible iniciar el Servidor.</Value>
+    </Setting>
+    <Setting Name="InvalidDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Directorio no válido</Value>
+    </Setting>
+    <Setting Name="CreatingThumbIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Creando Indice de miniaturas...</Value>
+    </Setting>
+    <Setting Name="CreatingFinish" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Creación Finalizada.</Value>
+    </Setting>
+    <Setting Name="CreatingInterrupted" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Creación Interrumpida.</Value>
+    </Setting>
+    <Setting Name="Deleting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Eliminando</Value>
+    </Setting>
+    <Setting Name="All" Type="System.String" Scope="User">
+      <Value Profile="(Default)">todas</Value>
+    </Setting>
+    <Setting Name="ForDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">para directorio</Value>
+    </Setting>
+    <Setting Name="DeletingFinished" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Eliminación completada</Value>
+    </Setting>
+    <Setting Name="AddedThumb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Miniatura añadida para fichero</Value>
+    </Setting>
+    <Setting Name="PortChange" Type="System.String" Scope="User">
+      <Value Profile="(Default)">El puerto del servidor cambia con esta configuración, para completar debe reiniciar el Servidor, ¿desea continuar?</Value>
+    </Setting>
+    <Setting Name="ClosingMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">¿Está seguro que desea cerrar la aplicación?</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
